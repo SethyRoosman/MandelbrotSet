@@ -12,3 +12,11 @@ mandelbrot-v2.py adds a new function that enables multi-processing
 ### Analysis
 <img src="mandelbrot-ploty-ui.png" width="60%" height=auto>
 I used plotly to implement a basic UI dashboard that displays the time taken (y-axis) for each iteration (x-axis)
+
+### Good Example
+scale->0.98
+iterations->500
+MAX_ITER->100
+NO_IMG->True
+SAVE_IMG->True
+MAKE_VID->True
